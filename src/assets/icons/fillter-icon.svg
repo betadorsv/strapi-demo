@@ -1,0 +1,9 @@
+<svg id="fillter-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3877" data-name="Rectangle 3877" width="24" height="24" fill="none"/>
+  <g id="filteri-icon" transform="translate(-2.285 -2)">
+    <path id="Path_2467" data-name="Path 2467" d="M7.5,12A3.5,3.5,0,1,0,4,8.5,3.5,3.5,0,0,0,7.5,12Z" transform="translate(0.308 0.308)"/>
+    <path id="Path_2468" data-name="Path 2468" d="M17.5,20A3.5,3.5,0,1,1,21,16.5,3.5,3.5,0,0,1,17.5,20Z" transform="translate(2.857 2.358)"/>
+    <path id="Path_2469" data-name="Path 2469" d="M19.875,7h-6.75A1.068,1.068,0,0,0,12,8a1.068,1.068,0,0,0,1.125,1h6.75A1.068,1.068,0,0,0,21,8,1.068,1.068,0,0,0,19.875,7Z" transform="translate(2.286 0.808)"/>
+    <path id="Path_2470" data-name="Path 2470" d="M5.125,15h6.75a1.007,1.007,0,1,1,0,2H5.125a1.007,1.007,0,1,1,0-2Z" transform="translate(1 2.857)"/>
+  </g>
+</svg>

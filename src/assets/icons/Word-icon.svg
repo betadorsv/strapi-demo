@@ -1,0 +1,8 @@
+<svg id="Word-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3895" data-name="Rectangle 3895" width="24" height="24" fill="none"/>
+  <g id="Group_46" data-name="Group 46" transform="translate(3 1)">
+    <path id="Path_2484" data-name="Path 2484" d="M12.293.293A1,1,0,0,0,11.586,0H1A1,1,0,0,0,0,1V21a1,1,0,0,0,1,1H17a1,1,0,0,0,1-1V6.414a1,1,0,0,0-.293-.707Z" fill="#2b76ff" fill-rule="evenodd"/>
+    <path id="Path_2485" data-name="Path 2485" d="M12.512,1.512A.3.3,0,0,0,12,1.724V5.7a.3.3,0,0,0,.3.3h3.976a.3.3,0,0,0,.212-.512Z" fill="#fff"/>
+    <path id="Path_2486" data-name="Path 2486" d="M13.224,10.384,11.76,16H10.1l-.9-3.7L8.28,16H6.624L5.2,10.384H6.664l.808,4.088,1-4.088h1.5l.96,4.088.816-4.088Z" fill="#fff"/>
+  </g>
+</svg>

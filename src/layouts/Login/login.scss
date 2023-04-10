@@ -1,0 +1,93 @@
+.auth {
+   background-image: url("https://marketplace.canva.com/EAFHm4JWsu8/1/0/1600w/canva-pink-landscape-desktop-wallpaper-HGxdJA_xIx0.jpg");
+  display: flex;
+  height: 100vh;
+  // background: linear-gradient(320deg,#f27121,#e94057,#8a2387);
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content:flex-end;
+  align-items: center;
+
+  width: 100vw;
+  &-container {
+    margin-right: 50px;
+    display: flex;
+    padding-left: 200px;
+    // float: right;
+    height: 90%;
+
+    width: 1000px;
+    // border: 1px solid #ccc;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.19);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.31);
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.19);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.31);
+
+    overflow: hidden;
+    &--cover {
+      img {
+        width: 500px;
+      }
+    }
+    &--form {
+      display: flex;
+      width: 100%;
+      // align-items: center;
+      padding: 70px 50px;
+      h3 {
+        font-size: 50px;
+        padding: 20px 0px;
+        font-weight: 500;
+        span {
+          color: #2b7cfa;
+          font-weight: 700;
+        }
+      }
+      label {
+        margin-top: 10px;
+        font-weight: 500;
+        font-size: 20px;
+      }
+      input {
+        width: 90%;
+        height: 50px;
+        border-radius: 10px;
+        padding: 5px 15px;
+        background: rgba(255, 255, 255, 0.19);
+        border-radius: 16px;
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        &:focus {
+          background: rgba(255, 255, 255, 0.364);
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          border: 1px solid rgba(255, 255, 255, 0.31);
+        }
+      }
+
+      button {
+        height: 50px;
+        width: 150px;
+        margin-top: 20px;
+        border-radius: 10px;
+        font-size: 20px;
+        background-color: #2b7cfa;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        background-image: linear-gradient(135deg, #6ca5ff 0%, #2b7cfa 100%);
+        border: unset;
+        &:focus {
+          border: unset;
+        }
+      }
+    }
+  }
+}

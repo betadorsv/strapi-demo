@@ -1,0 +1,9 @@
+<svg id="Hotel-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3968" data-name="Rectangle 3968" width="24" height="24" fill="none"/>
+  <g id="bed" transform="translate(3 -59.266)">
+    <path id="Path_2481" data-name="Path 2481" d="M0,353.065v1.13a.527.527,0,0,0,1.055,0v-.6H16.945v.6a.527.527,0,0,0,1.055,0v-2.862H0Z" transform="translate(0 -276.975)"/>
+    <path id="Path_2482" data-name="Path 2482" d="M16.061,224.933H1.939A1.942,1.942,0,0,0,0,226.872v1.45H18v-1.45a1.942,1.942,0,0,0-1.939-1.939Z" transform="translate(0 -155.019)"/>
+    <path id="Path_2483" data-name="Path 2483" d="M175.485,158.533a.886.886,0,0,0-.885.885v.395h5.723v-.395a.886.886,0,0,0-.885-.885Z" transform="translate(-168.462 -90.953)"/>
+    <path id="Path_2484" data-name="Path 2484" d="M67.092,68.465a1.942,1.942,0,0,1,1.939-1.939h3.954a1.942,1.942,0,0,1,1.939,1.939v.395h2.824V66.205a1.942,1.942,0,0,0-1.939-1.939h-9.6a1.942,1.942,0,0,0-1.939,1.939V68.86h2.824Z" transform="translate(-62.009)"/>
+  </g>
+</svg>

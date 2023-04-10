@@ -1,0 +1,8 @@
+<svg id="Excel-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3997" data-name="Rectangle 3997" width="24" height="24" fill="none"/>
+  <g id="Group_2067" data-name="Group 2067" transform="translate(3 1)">
+    <path id="Path_2499" data-name="Path 2499" d="M12.293.293A1,1,0,0,0,11.586,0H1A1,1,0,0,0,0,1V21a1,1,0,0,0,1,1H17a1,1,0,0,0,1-1V6.414a1,1,0,0,0-.293-.707Z" fill="#0f783f" fill-rule="evenodd"/>
+    <path id="Path_2500" data-name="Path 2500" d="M12.512,1.512A.3.3,0,0,0,12,1.724V5.7a.3.3,0,0,0,.3.3h3.976a.3.3,0,0,0,.212-.512Z" fill="#fff"/>
+    <path id="Path_2501" data-name="Path 2501" d="M9.936,16,8.792,14.28,7.784,16H6.232l1.8-2.856-1.84-2.76H7.784l1.128,1.7.992-1.7h1.552L9.672,13.216,11.528,16Z" fill="#fff"/>
+  </g>
+</svg>

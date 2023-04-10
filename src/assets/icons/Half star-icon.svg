@@ -1,0 +1,7 @@
+<svg id="Half_star-icon" data-name="Half star-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24.001" viewBox="0 0 24 24.001">
+  <rect id="Rectangle_3862" data-name="Rectangle 3862" width="24" height="24" transform="translate(0 0.001)" fill="none"/>
+  <g id="Half_star-icon-2" data-name="Half star-icon" transform="translate(0 0.001)">
+    <path id="Path_14" data-name="Path 14" d="M23.766,9.874l-5.349,5.492,1.257,7.773a.75.75,0,0,1-1.1.78L12,20.268V.03a.718.718,0,0,1,.679.4l3.3,7.053L23.337,8.6a.758.758,0,0,1,.429,1.27Z" transform="translate(0.025 -0.031)" fill="#eceff1"/>
+    <path id="Path_15" data-name="Path 15" d="M11.975.03V20.268L5.4,23.919a.749.749,0,0,1-1.1-.78l1.257-7.773L.21,9.874A.758.758,0,0,1,.639,8.6l7.355-1.12L11.3.43a.718.718,0,0,1,.679-.4Z" transform="translate(-0.001 -0.031)"/>
+  </g>
+</svg>

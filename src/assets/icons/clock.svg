@@ -1,0 +1,5 @@
+<svg id="clock" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3947" data-name="Rectangle 3947" width="24" height="24" fill="none"/>
+  <path id="Path_2473" data-name="Path 2473" d="M12,1A11,11,0,1,0,23,12,11,11,0,0,0,12,1Zm0,20a9,9,0,1,1,9-9A9,9,0,0,1,12,21Z"/>
+  <path id="Path_2474" data-name="Path 2474" d="M13,11.586V6a1,1,0,0,0-2,0v6a1,1,0,0,0,.293.707l3,3a1,1,0,1,0,1.414-1.414Z"/>
+</svg>
